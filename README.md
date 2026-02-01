@@ -67,7 +67,7 @@ cd gh-and-git-guide
 To keep your fork updated with the original repository:
 
 ```bash
-git remote add upstream https://github.com/geraldsberongoy/gh-and-git-guide.git
+git remote add upstream https://github.com/gdg-pup-webdev-team/gh-and-git-guide.git
 ```
 
 **Verify your remotes:**
@@ -382,7 +382,7 @@ Apply what you've learned by creating a personal page in the workshop repository
 ### Steps
 
 1. **Fork the repository**
-   - Go to https://github.com/geraldsberongoy/gh-and-git-guide
+   - Go to https://github.com/gdg-pup-webdev-team/gh-and-git-guide.git
    - Click the **Fork** button (top-right corner)
    - GitHub creates a copy under your account
 
@@ -396,7 +396,7 @@ Apply what you've learned by creating a personal page in the workshop repository
 3. **Add the upstream remote**
 
    ```bash
-   git remote add upstream https://github.com/geraldsberongoy/gh-and-git-guide.git
+   git remote add upstream https://github.com/gdg-pup-webdev-team/gh-and-git-guide.git
    ```
 
 4. **Update your fork from upstream**
@@ -488,3 +488,4 @@ Here's a quick reference for commands you'll use often:
 ---
 
 **Ready to contribute to GDG on Campus PUP projects? Start by forking, cloning your fork, and submitting your first pull request today!**
+
