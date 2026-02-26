@@ -1,4 +1,4 @@
-# Git and GitHub Guide
+# Git and GitHub 
 
 A step-by-step guide for contributing to GDG on Campus PUP projects using Git and GitHub. Follow this workflow for all your contributions.
 
@@ -433,7 +433,7 @@ Apply what you've learned by creating a personal page in the workshop repository
    ```
 
 9. **Create a Pull Request**
-   - Go to the **original repository** (geraldsberongoy/gh-and-git-guide)
+   - Go to the **original repository**
    - Click **Compare & pull request**
    - Select: base repo `dev` ← compare your fork's `feature/add-personal-page-your-name`
    - Add a title: `feat(profile): add personal page for [Your Name]`
@@ -488,4 +488,5 @@ Here's a quick reference for commands you'll use often:
 ---
 
 **Ready to contribute to GDG on Campus PUP projects? Start by forking, cloning your fork, and submitting your first pull request today!**
+
 
